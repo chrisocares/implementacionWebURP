@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "El presidente del Poder Judicial, José Luis Lecaros, rechazó que a Keiko Fujimori se le considere una “presa política”, como lo afirma Fuerza Popular, y resaltó que la decisión que dispuso su prisión preventiva por el presunto delito de lavado de activos no tuvo influencia política.",
+    "content": "Article coming soon",
+    "dateString": " Hace 13 horas",
+    "baseImageName": "winner",
+    "articleType": "TOP_STORY",
+    "isFavourite": true
+  },
+  {
+    "id": 2,
+    "title": "La congresista Yeni Vilcatoma (Fuerza Popular) consideró que el acuerdo de colaboración eficaz suscrito entre Odebrecht y el Equipo Especial Lava Jato del Ministerio Público se debería revocar luego de que se conociera que la constructora brasilera reconoció -hecho que negó anteriormente- que hizo pagos ilícitos para obtener la licitación del Gasoducto del Sur.",
+    "content": "Article coming soon",
+    "dateString": "21 Jan 2019",
+    "baseImageName": "prettier",
+    "articleType": "CODE_EXAMPLE",
+    "isFavourite": false
+  },
+  {
+    "id": 3,
+    "title": "El Presidente de la República, Martín Vizcarra, encabezó hoy la ceremonia de presentación del servicio de emisión del Certificado de Antecedentes Policiales Digital (Cerap Digital), para uso en el Perú. El documento, que certifica si la persona tiene antecedentes policiales, ya se puede obtener vía internet y con valor legal, lo que evitará las colas en las oficinas policiales y en el Banco de la Nación",
+    "content": "Article coming soon",
+    "dateString": "20 Jan 2019",
+    "baseImageName": "working",
+    "articleType": "TOP_STORY",
+    "isFavourite": false
+  },
+  {
+    "id": 4,
+    "title": "Este último miércoles el expresidente de la constructora OAS, Jose Adelmario Pinheiro Filho fue interrogado en Curitiba por los fiscales del equipo especial Lava Jato Rafael Vela, Carlos Puma y Ángela Zuloaga. De acuerdo con El Comercio, reveló información que involucra a la ex primera dama, Nadine Heredia con el ‘Club de la Construcción’.",
+    "content": "Article coming soon",
+    "dateString": "19 Jan 2019",
+    "baseImageName": "question",
+    "articleType": "CODE_EXAMPLE",
+    "isFavourite": false
+  },
+  {
+    "id": 5,
+    "title": "El expresidente de la República, Ollanta Humala, criticó el allanamiento que realizó en vísperas el Ministerio Público a su vivienda ubicada en el distrito limeño de Surco.",
+    "content": "Article coming soon",
+    "dateString": "18 Jan 2019",
+    "baseImageName": "phone",
+    "articleType": "TOP_STORY",
+    "isFavourite": true
+  },
+  {
+    "id": 6,
+    "title": "Es muy común que los niños en pre-escolar se enamoren de sus compañeros. A todos nos gustaba un compañero o compañera de clases a esa edad, es muy normal. Lo extraordinario es que ocurra lo que le pasó a Matt Grodsky y Laura Sheel. Se conocieron en pre-escolar, se juraron casarse y están juntos 20 años después.",
+    "content": "Article coming soon",
+    "dateString": "17 Jan 2019",
+    "baseImageName": "phone2",
+    "articleType": "CODE_EXAMPLE",
+    "isFavourite": false
+  }
+]
